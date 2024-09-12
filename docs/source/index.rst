@@ -1,4 +1,4 @@
-Welcome to the MBI Snark Discord server documentation!
+Welcome to the MBIS Discord server docs!
 ===================================
 
 **MBIS** is a Discord server dedicated to casual educational commentary regarding the Munchausen by Internet phenomenon.
