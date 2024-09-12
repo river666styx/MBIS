@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MBIS'
+copyright = '2024, River Styx'
+author = 'River Styx'
 
 release = '0.1'
 version = '0.1.0'
