@@ -1,9 +1,14 @@
 Usage
 =====
 
-.. _installation:
+.. _threads:
 
-Installation
+Threads
+------
+
+.. _notifications:
+
+Notifications
 ------------
 
 To use Lumache, first install it using pip:
@@ -11,6 +16,13 @@ To use Lumache, first install it using pip:
 .. code-block:: console
 
    (.venv) $ pip install lumache
+
+.. _chree
+
+Chree
+-----
+
+
 
 Creating recipes
 ----------------
